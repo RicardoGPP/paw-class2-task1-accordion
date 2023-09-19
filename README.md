@@ -1,1 +1,1 @@
-# paw-class2-task1-accordion
+# PAW - Aula 2 - Tarefa 1 - Acordeão
